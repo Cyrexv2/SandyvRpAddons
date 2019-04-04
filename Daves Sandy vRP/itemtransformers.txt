@@ -2412,5 +2412,5 @@ aptitudes={}
           aptitudes={ -- optional
             ["laboratory.lsd"] = 1.5, -- "group.aptitude", give 1 exp per unit
             ["science.chemicals"] = 3
-          }
-        }
+           }
+         }
